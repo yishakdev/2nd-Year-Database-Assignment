@@ -1,3 +1,3 @@
 ## Database Assignment
 
-Database Assignment for my 2nd year university project.
+Database Assignment on my 2nd year university.
